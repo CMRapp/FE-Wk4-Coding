@@ -120,7 +120,7 @@ const arrayMath = (arr) => {
     }    
 }
 console.log('Call function with array values of 1, 10, 43: ' + arrayMath([1,10,43]));
-console.log('Call function with array values of 1, 10, 43: ' + arrayMath([51,10,93]));
+console.log('Call function with array values of 51, 10, 93: ' + arrayMath([51,10,93]));
 
 // ************************************************************************
 console.log(divider + '\n** Question 10 **\n' + divider);
