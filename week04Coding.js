@@ -197,7 +197,8 @@ const showMainMenu = () => {
     9)  Question 9 | Sum of Array Function
     10) Question 10 | Average of Array Function
     11) Question 11 | Average of Two Arrays Function
-    12) Question 12 | willBuyDrink Function`;
+    12) Question 12 | willBuyDrink Function
+    13) Question 13 | Custom Method(s)`;
 
     // window.prompt(menu);      //display menu in messagebox
     console.log(menu);
